@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
 </div>
 
-<h3 align="center">✨ Cybersecurity Specialist | AI Developer | CTF Champion 🚀</h3>
+<h3 align="center">✨ AI Developer | Cybersecurity Specialist 🚀</h3>
 
 
 ## 👨‍💻 About Me
